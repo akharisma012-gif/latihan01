@@ -12,13 +12,7 @@ Amanda Karisma
 
 
 
-praktikum
+praktikum Analisa big data ekonomika
 
-Analisa
 
-big
-
-data
-
-ekonomi
 
