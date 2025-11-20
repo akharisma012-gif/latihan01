@@ -1,4 +1,4 @@
-import streamlite as st
+import streamlit as st
 
 pages = [
     st.Page(page="pages/page01.py", title="Home", icon="🏡"),
